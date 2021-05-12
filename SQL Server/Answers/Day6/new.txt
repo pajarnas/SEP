@@ -1,0 +1,9 @@
+3.	Design a database to maintain the menu of a restaurant.
+
+•	Each course has its name, a short description, photo and final price.
+•	Each course has categories characterized by their names, short description, name of the employee in-charge of them.
+•	Besides the courses some recipes are stored. They are formed by the name of their ingredients, the required amount, units of measurements and the current amount in the store.3.设计一个数据库来维护餐厅的菜单。
+
+•每门课程都有其名称，简短说明，照片和最终价格。
+•每门课程都有类别，以其名称，简短描述，负责人员的姓名为特征。
+•除了课程外，还存储了一些食谱。 它们由成分名称，所需数量，计量单位和商店中的当前数量组成。
