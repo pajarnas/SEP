@@ -1,0 +1,7 @@
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\bin\HomeworkDay1.dll.config
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\bin\HomeworkDay1.dll
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\bin\HomeworkDay1.pdb
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.csprojAssemblyReference.cache
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.csproj.CoreCompileInputs.cache
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.dll
+C:\Users\shiqizhang\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day1\Assignment\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.pdb
