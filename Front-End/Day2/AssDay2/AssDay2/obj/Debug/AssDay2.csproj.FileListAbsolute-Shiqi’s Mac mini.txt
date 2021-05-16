@@ -1,0 +1,2 @@
+\\Mac\Home\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day2\AssDay2\AssDay2\obj\Debug\AssDay2.csprojAssemblyReference.cache
+\\Mac\Home\OneDrive - University of Central Missouri\antra\GitHub\SEP\Front-End\Day2\AssDay2\AssDay2\obj\Debug\AssDay2.csproj.CoreCompileInputs.cache
