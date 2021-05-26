@@ -1,0 +1,13 @@
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.exe
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.deps.json
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.runtimeconfig.json
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.runtimeconfig.dev.json
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.dll
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\bin\Debug\netcoreapp3.1\Exercise2,3,4.pdb
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.csprojAssemblyReference.cache
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.AssemblyInfoInputs.cache
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.AssemblyInfo.cs
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.csproj.CoreCompileInputs.cache
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.dll
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.pdb
+C:\Users\shiqizhang\source\repos\AssDay4CSharp\Exercise2\obj\Debug\netcoreapp3.1\Exercise2,3,4.genruntimeconfig.cache
