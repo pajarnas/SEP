@@ -1,0 +1,12 @@
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\bin\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.csprojAssemblyReference.cache
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.AssemblyInfoInputs.cache
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.AssemblyInfo.cs
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\bin\Debug\netcoreapp3.1\Data.Repository.deps.json
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\bin\Debug\netcoreapp3.1\Data.Repository.dll
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\bin\Debug\netcoreapp3.1\Data.Repository.pdb
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\bin\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.csproj.CopyComplete
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.dll
+C:\Users\shiqizhang\source\repos\AssDay5ADO.Net\Data.Repository\obj\Debug\netcoreapp3.1\Data.Repository.pdb
