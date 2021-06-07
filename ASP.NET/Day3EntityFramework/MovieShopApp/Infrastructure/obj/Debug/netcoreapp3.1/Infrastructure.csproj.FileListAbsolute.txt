@@ -1,0 +1,15 @@
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\shiqizhang\source\repos\MovieShopApp\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ApplicationCore.deps.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ApplicationCore.runtimeconfig.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ApplicationCore.runtimeconfig.dev.json
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ApplicationCore.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ref\ApplicationCore.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\bin\Debug\netcoreapp5.0\ApplicationCore.pdb
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ref\ApplicationCore.dll
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.pdb
+C:\Users\shiqizhang\source\repos\MovieShopApp\ApplicationCore\obj\Debug\netcoreapp5.0\ApplicationCore.genruntimeconfig.cache
